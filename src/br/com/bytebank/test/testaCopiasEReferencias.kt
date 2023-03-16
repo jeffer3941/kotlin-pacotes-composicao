@@ -1,7 +1,7 @@
-package test
+package br.com.bytebank.test
 
-import model.ContaCorrente
-import model.ContaPoupanca
+import br.com.bytebank.model.ContaCorrente
+import br.com.bytebank.model.ContaPoupanca
 
 fun testaCopiasEReferencias() {
     val numeroX = 10

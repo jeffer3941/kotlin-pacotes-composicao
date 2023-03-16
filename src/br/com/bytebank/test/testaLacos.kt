@@ -1,4 +1,4 @@
-package test
+package br.com.bytebank.test
 
 fun testaLacos() {
     var i = 0

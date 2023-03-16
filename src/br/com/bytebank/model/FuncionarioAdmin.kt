@@ -1,4 +1,4 @@
-package model
+package br.com.bytebank.model
 
 abstract class FuncionarioAdmin(
     nome: String,

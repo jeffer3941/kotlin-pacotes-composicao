@@ -1,4 +1,4 @@
-package model
+package br.com.bytebank.model
 
 abstract class Conta(
     var titular: String,
